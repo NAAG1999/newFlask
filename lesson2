@@ -1,0 +1,23 @@
+				LESSON 2
+	
+
+ROUTING
+
+
+
+We use
+Decorator: @ : wraps up python function --> we connect a url to function
+
+
+VARIABLES IN FLASK
+
+
+put in angle brackets <> the var name and then return the variable using fucntion and then use it accordingy
+
+when we use integer as our variable... then use like:
+('post/<int:post_id>')
+
+i.e declare the data type in the argument.
+
+examples show in the corresponding code :)
+
