@@ -7,8 +7,6 @@ app = Flask(__name__)
 def profile(name):
     return render_template("profile.html", name=name)
 
-
-
 if __name__ == "__main__":
     app.run() #kickoff webserver : starts the app
 
